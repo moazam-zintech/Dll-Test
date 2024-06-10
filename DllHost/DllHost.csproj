@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="libzkfpcsharp">
+      <HintPath>C:\Users\Muhammad.Moazam\OneDrive\Desktop\Attendence-API\libzkfpcsharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
